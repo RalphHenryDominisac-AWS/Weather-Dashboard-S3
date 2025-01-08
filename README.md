@@ -31,12 +31,8 @@ Before setting up the application, ensure the following:
       AWS_DEFAULT_REGION=your_aws_default_region
     ```
 
-    Replace the placeholders with your actual credentials and keys:
+    Replace the placeholders with your actual credentials and keys.
 
-    -OPENWEATHER_API_KEY: Your API key from OpenWeather.
-    -AWS_BUCKET_NAME: The name of your S3 bucket (the ${RANDOM} variable will generate a unique name).
-    -AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY: Your AWS credentials.
-    -AWS_DEFAULT_REGION: The AWS region where your S3 bucket is located.
 
 3. Install Dependencies: Create a virtual environment and install the required Python dependencies
 
