@@ -6,10 +6,10 @@ This application retrieves weather data from the OpenWeather API and stores it i
 
 Before setting up the application, ensure the following:
 
--Python 3.x installed on your machine.
--An AWS account with appropriate access credentials.
--A valid OpenWeather API key.
--AWS CLI installed and configured (optional for manual configuration).
+- Python 3.x installed on your machine.
+- An AWS account with appropriate access credentials.
+- A valid OpenWeather API key.
+- AWS CLI installed and configured (optional for manual configuration).
 
 ## Setup
 
